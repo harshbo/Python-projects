@@ -7,3 +7,6 @@ Text.py
   
 wordpicker.py
   This is mini game in which user needs to guess the characters in order to find the word.
+  
+rock.py
+  This is mini game in which we play it and it is called as rock-paper-scissors.
