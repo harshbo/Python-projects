@@ -10,3 +10,6 @@ wordpicker.py
   
 rock.py
   This is mini game in which we play it and it is called as rock-paper-scissors.
+
+Stopwatch.py
+  A special watch with buttons that start and stop.
