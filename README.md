@@ -13,3 +13,6 @@ rock.py
 
 Stopwatch.py
   A special watch with buttons that start and stop.
+
+ProjDay.py
+  A code to generate day if we enter the date in specified date format.
