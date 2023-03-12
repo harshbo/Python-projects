@@ -16,3 +16,6 @@ Stopwatch.py
 
 ProjDay.py
   A code to generate day if we enter the date in specified date format.
+
+whatsapp.py
+  This automatically sends whatsapp messages using pyautogui.
